@@ -1,5 +1,5 @@
 const int DELS[4] = { 7, 8, 9, 10 };                      // Roynel Fonseca 
-const int DELS_SIZE = sizeof(DELS) / sizeof(DELS[0]);     // Nro étudiant : 2510948
+const int DELS_SIZE = sizeof(DELS) / sizeof(DELS[0]);     // Nro étudiant : 2510948 
 const int BOTON_PIN = 2;
 const int POT_PIN = A1;
 unsigned long potValue = 0;
